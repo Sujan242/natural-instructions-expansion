@@ -488,11 +488,7 @@ Name | Summary | Category
 `task559_spl_translation_en_fi` | Language Translate of Dataset Card for ALT from English language to Filipino language while preserving named entities in the original language | Language Translation
 `task560_spl_translation_en_entk` | Language Translate of Dataset Card for ALT from English language to English tokens while preserving named entities in the original language | Language Translation
 `task561_spl_translation_en_bg` | Language Translate of Dataset Card for ALT from English language to Bengali language while preserving named entities in the original language | Language Translation
-`task664_mmmlu_answer_generation_stem` | Answering mutlitple choice questions on Stem Topics | Answer Generation
-`task665_mmmlu_answer_generation_social_sciences` | Answering multiple choice questions on Social Science | Answer Generation
-`task666_mmmlu_answer_generation_humanities` | Answering mutltiple choice questions on Humanities | Answer Generation
-`task667_mmmlu_answer_generation_miscellaneous` | Answering multiple choice questions questions on micellaneous topics like health, business etc. | Answer Generation
 `task582_naturalquestion_answer_generation` | You are given an open-domain question and return an answer based on factual information | Answer Generation
 `task615_moviesqa_answer_generation` | Given a question from an open movie database, generate an answer for that. | Answer Generation
 `task561_spl_translation_en_bg` | Language Translate of Dataset Card for ALT from English language to Bengali language while preserving named entities in the original language | Language Translation
-
+`task668_extreme_abstract_summarization` | Generate a summary of this abstract. | Summarization
