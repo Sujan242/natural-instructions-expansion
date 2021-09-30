@@ -602,6 +602,9 @@ Name | Summary | Category
 `task661_mizan_en_fa_translation` | Given an English sentence, translate it into Persian. | Translation
 `task662_global_voices_fa_en_translation` | Given a Persian sentence, translate it into English. | Translation
 `task663_global_voices_en_fa_translation` | Given an English sentence, translate it into Persian. | Translation
+`task935_defeasible_nli_atomic_classification` | Given a premise, hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis. | Classification
+`task936_defeasible_nli_snli_classification` | Given a premise, hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis. | Classification
+`task937_defeasible_nli_social_classification` | Given a hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis. | Classification
 `task561_spl_translation_en_bg` | Language Translate of Dataset Card for ALT from English language to Bengali language while preserving named entities in the original language | Language Translation
 `task668_extreme_abstract_summarization` | Generate a summary of this abstract. | Summarization
 `task640_esnli_classification` | Given a premise and hypothesis, determine if the hypothesis entails, contradicts, or is neutral to the premise. | Classification
